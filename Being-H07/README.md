@@ -12,7 +12,7 @@ Being-H0.7 is BeingBeyond's flagship **WAM** model, built as a **latent world-ac
 
 ## News
 
-- **[2026-04-14]**: We publish **Being-H0.7**. Read the [blog](https://research.beingbeyond.com/being-h07) for the latest overview.
+- **[2026-04-14]**: We publish **Being-H0.7**. Read the [blog](https://research.beingbeyond.com/being-h07) and [paper](https://research.beingbeyond.com/projects/being-h07/being-h07.pdf) for the latest overview.
 
 ## Overview
 

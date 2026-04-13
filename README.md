@@ -13,7 +13,7 @@ Within this repository, **Being-H0.5** is our flagship **VLA** model and **Being
 
 ## News
 
-- **[2026-04-14]**: We publish **Being-H0.7**, our flagship WAM model. See the [blog](https://research.beingbeyond.com/being-h07).
+- **[2026-04-14]**: We publish **Being-H0.7**, our flagship WAM model. See the [blog](https://research.beingbeyond.com/being-h07) and [paper](https://research.beingbeyond.com/projects/being-h07/being-h07.pdf).
 - **[2026-03-20]**: We release the [UniHand_Preview](https://huggingface.co/datasets/BeingBeyond/UniHand_Preview) dataset, a subset of the Being-H0.5 pre-training mixture.
 - **[2026-01-24]**: We update the H0.5 training, inference, and data preparation docs, and open-source post-training data for PND Adam-U through our [Hugging Face dataset collection](https://huggingface.co/collections/BeingBeyond/pnd-adam-u-data).
 - **[2026-01-20]**: We publish **Being-H0.5**, our flagship VLA model for cross-embodiment generalization.
