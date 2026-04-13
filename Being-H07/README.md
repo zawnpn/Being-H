@@ -3,6 +3,7 @@
 <div align="center">
 
 [![Blog](https://img.shields.io/badge/Blog-Being--H07-green)](https://research.beingbeyond.com/being-h07)
+[![Paper](https://img.shields.io/badge/arXiv-Paper-b31b1b.svg)](https://research.beingbeyond.com/projects/being-h07/being-h07.pdf)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](../LICENSE)
 
 </div>

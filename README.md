@@ -5,7 +5,7 @@ Within this repository, **Being-H0.5** is our flagship **VLA** model and **Being
 
 ## Model Family
 
-| Project | Positioning | Summary | Links |
+| Project&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Positioning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Summary | Links&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 |---------|-------------|---------|-------|
 | [Being-H0.7](Being-H07/) | Flagship WAM | A latent world-action model from egocentric videos with future-aware latent reasoning. | [Blog](https://research.beingbeyond.com/being-h07) / [Paper](https://research.beingbeyond.com/projects/being-h07/being-h07.pdf) |
 | [Being-H0.5](Being-H05/) | Flagship VLA | A human-centric VLA model for cross-embodiment generalization with a unified action space. | [Blog](https://research.beingbeyond.com/being-h05) / [Paper](https://arxiv.org/pdf/2601.12993) / [Models](https://huggingface.co/collections/BeingBeyond/being-h05) |
